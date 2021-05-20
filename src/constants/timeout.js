@@ -1,0 +1,1 @@
+export const DIALOG_RESET_PROPS_TIMEOUT = 150;

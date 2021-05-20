@@ -1,0 +1,13 @@
+/* SamsungSharp regular */
+@font-face {
+  font-family: 'SamsungSharp';
+  font-style: normal;
+  src: url(SamsungSharp/samsungsharpsans.otf) format("opentype")
+}
+
+@font-face {
+  font-family: 'SamsungSharp';
+  font-style: normal;
+  font-weight: 'bold';
+  src: url(SamsungSharp/samsungsharpsans-bold.otf) format("opentype")
+}

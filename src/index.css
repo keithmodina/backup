@@ -1,0 +1,43 @@
+@import url("assets/fonts/_SamsungOne.css");
+@import url("assets/fonts/_SamsungSharp.css");
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body, h1, h2, h3, h4, h5, h6, dl, dd, ol, ul, form, fieldset, legend, input, textarea, button, p { font-family: 'SamsungOne', sans-serif; }
+
+div,
+span {
+  box-sizing: border-box
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+*:focus {
+  outline: none; 
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input::-ms-reveal, input::-ms-clear {
+  display: none;
+}
+
+/*Editor css*/
+.jodit-container {
+  border-radius: 26px !important;
+}
+.jodit-toolbar__box {
+  border-top-right-radius: 26px !important;
+  border-top-left-radius: 26px !important;
+}

@@ -1,0 +1,49 @@
+/* SamsungOne regular */
+@font-face {
+  font-family: 'SamsungOne';
+  font-style: normal;
+  font-weight: normal;
+  src: url(SamsungOne/SAMSUNGONE-400_V1.1.TTF) format("truetype")
+}
+
+@font-face {
+  font-family: 'SamsungOne';
+  font-style: normal;
+  font-weight: 200;
+  src: url(SamsungOne/SAMSUNGONE-200_V1.1.TTF) format("truetype")
+}
+
+@font-face {
+  font-family: 'SamsungOne';
+  font-style: normal;
+  font-weight: 400;
+  src: url(SamsungOne/SAMSUNGONE-400_V1.1.TTF) format("truetype")
+}
+
+@font-face {
+  font-family: 'SamsungOne';
+  font-style: normal;
+  font-weight: 500;
+  src: url(SamsungOne/SAMSUNGONE-500_V1.1.TTF) format("truetype")
+}
+
+@font-face {
+  font-family: 'SamsungOne';
+  font-style: normal;
+  font-weight: 600;
+  src: url(SamsungOne/SAMSUNGONE-600_V1.1.TTF) format("truetype")
+}
+
+@font-face {
+  font-family: 'SamsungOne';
+  font-style: normal;
+  font-weight: 700;
+  src: url(SamsungOne/SAMSUNGONE-700_V1.1.TTF) format("truetype")
+}
+
+@font-face {
+  font-family: 'SamsungOne';
+  font-style: normal;
+  font-weight: 800;
+  src: url(SamsungOne/SAMSUNGONE-800_V1.1.TTF) format("truetype")
+}
